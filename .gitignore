@@ -1,5 +1,6 @@
 /vendor/
 /logs/*
 config.php
+.env
 !/logs/README.md
 sendgrid.env
